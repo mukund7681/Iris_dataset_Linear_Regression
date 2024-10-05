@@ -7,7 +7,7 @@ from matplotlib import pyplot as plt
 import seaborn as sns
 
 # Check scikit-learn version
-print("Scikit-learn version:", sklearn.__version__)
+print("Scikit-learn version:", sklearn.__version__) 
 
 # Load the dataset
 iris = pd.read_csv(r"C:\Users\mukun\OneDrive\Documents\iris.csv")
